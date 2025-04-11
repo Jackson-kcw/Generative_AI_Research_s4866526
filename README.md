@@ -1,3 +1,3 @@
 # AI_Research
 
-put some stuff - all data for the project
+It is a good project. It includes lots of data and analysis.
